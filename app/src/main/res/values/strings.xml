@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iSober</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Test Accelerometer</string>
+    <string name="timer_top">Walk in a</string>
+    <string name="timer_bottom">straight line</string>
+    <string name="timer_center">0</string>
+</resources>
